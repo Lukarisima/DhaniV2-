@@ -1,5 +1,5 @@
 {
-  "name": "NurFakhri",
+  "name": "DhaniOfficiall",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "NurFakhri",
+  "author": "DhaniYo?",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
